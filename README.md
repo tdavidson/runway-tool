@@ -2,7 +2,7 @@
 
 [Runway and Cash Budget Tool](https://foresight.is/runway-cash-forecasting) is a financial model template for Excel or Google Sheets to plan your expenses, create a cash budget and forecast runway, for up to three years. Prebuilt with key charts and summaries of cashflows, operating costs, and runway. Used by pre-seed and Seed stage companies. Unlocked - edit anything - last updated in January 2019.
 
-![](https://foresight.is/assets/img/external/runway_demo.png)
+[![Demo of runway and cash budget forecast tool](https://foresight.is/assets/img/external/runway_demo.png)](https://foresight.is/runway-cash-forecasting)
 
 ## Overview
 Financial template to forecast your expenses, cash and runway by inputting your revenues, costs, and funding (optional). Automatically builds charts of cash on hand, cash burn, operating costs, and sources and uses of funds.
