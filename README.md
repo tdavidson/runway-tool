@@ -19,9 +19,9 @@ Standards-based, extensively tested and used by thousands of companies across a 
 ### Edit anything
 Use in Microsoft Excel or Google Sheets; all cells and formulas are unlocked for editing and transparency, add on or edit for your specific situation.
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />
 
-I use Github to organize updates and collaboration on the tool. Issues or suggestions, log under Issues; create pull requests to work on the core model, and fork for your own use, subject to a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. 
+I use Github to organize updates and collaboration on the tool. Issues or suggestions, log under Issues; create pull requests to work on the core model, and fork for your own use, subject to a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>. 
 
 ### Personal support
 Built by a professional financial modeler with experience as an investor and running forecasting inside startups. Responsive, personal support — [chat, call, or email](https://foresight.is/learn/contact) — and available for custom services. I created the financial models behind Foresight so early-stage entrepreneurs can spend less time on finance and more time on their products. [Learn more about me &rsaquo;](https://foresight.is/purpose)
