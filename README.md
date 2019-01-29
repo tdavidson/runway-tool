@@ -5,7 +5,7 @@
 [![Demo of runway and cash budget forecast tool](https://foresight.is/assets/img/external/runway_demo.png)](https://foresight.is/runway-cash-forecasting)
 
 ## Overview
-Financial template to forecast your expenses, cash and runway by inputting your revenues, costs, and funding (optional). Automatically builds charts of cash on hand, cash burn, operating costs, and sources and uses of funds.
+Financial template to forecast your expenses, cash and runway by inputting your revenues, costs, and funding (optional). Automatically builds charts of cash on hand, cash burn, operating costs, and sources and uses of funds. Flexible enough to use for any type of business.
 
 ### Key features
 The free Runway and Cash Budget Tool is the simplest structure of the base financial models, so that you can create a cost budget, estimate revenues, and understand burn, cash, and runway as quickly as possible. Automatically creates summary chart of burn and runway, summary of operating expenses, and sources and uses of funds (optional).
