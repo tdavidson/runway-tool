@@ -1,6 +1,7 @@
 ---
 title: Get Started with the Runway and Cash Budget Tool
-lede: 'An overview of the free <a href="/runway-cash-forecasting">Runway and Cash Budget Tool</a>.'
+lede: "An overview of the free <a href="/runway-cash-forecasting">Runway and Cash Budget Tool</a>."
+slug: "docs/get-started/runway-tool"
 ---
 The free Runway and Cash Budget Tool is used to build a cost budget and forecast cash and runway. [^1] It's intended to be a simple model with easy inputs for expenses, revenues, and external funding, so that you can get a handle on burn, cash and runway quickly and easily. It is the simplest of the [base financial models](/models#base) used for creating financial forecasts, and is a good starting point for idea-stage, pre-seed, and even seed-stage founders, advisors, mentors, or consultants that need to create a cost budget and runway forecast with the simplest structure possible.
 
